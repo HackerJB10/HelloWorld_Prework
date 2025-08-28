@@ -22,9 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
+<img src='https://github.com/HackerJB10/HelloWorld_Prework/blob/main/app/Kapture%202025-08-27%20at%2021.36.09%20copy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<Kap Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
